@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Djago
 - 🤔 I’m looking for help with ...Reactjs
 - 💬 Ask me about ...anythig
-- 📫 How to reach me: ...kibichiigilbert54@gmail.com
+- 📫 How to reach me: ...kibichiigilbert54@gmail.com, https://www.linkedin.com/in/gilbert-kibichii-a89478225/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....zx
 -->
